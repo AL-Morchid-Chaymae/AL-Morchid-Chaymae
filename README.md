@@ -16,7 +16,7 @@ Hello !<br>My name is AL Morchid Chaymae, and I work as a Full Stack Software En
 ![](https://github-profile-trophy.vercel.app/?username=AL-Morchid-Chaymae&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AL-Morchid-Chaymae&icon=5&color=12)](https://visitcount.itsvg.in)

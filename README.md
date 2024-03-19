@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/omazoz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hey!it's me AL Chaymae 🙋‍♀..."></a>
+
+
+
 # 💫 About Me:
 Hello !<br>My name is AL Morchid Chaymae, and I work as a Full Stack Software Engineer. I have experience with a wide range of programming languages and technologies, including HTML, CSS, JavaScript, C, Python, Java, SQL, and UML/Merise. Additionally, I am proficient in working with Shell in Unix environments."<br>currently I am oriented in Java (Spring Boot) and also in Javascript (React - Angular)
 

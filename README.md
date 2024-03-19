@@ -1,5 +1,5 @@
-<p align="center" style="color: red;">
-<a href="https://github.com/AL-Morchid-Chaymae/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hey! !it's me AL Chaymae 🙋‍♀... "></a>
+<p align="center"><font color="red"><a href="https://github.com/AL-Morchid-Chaymae/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hey!it's me AL Morchid Chaymae 🙋‍♀..."></a></font></p>
+
 
 
 # 💫 About Me:

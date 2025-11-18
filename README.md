@@ -1,110 +1,108 @@
-<p align="center">
-  <a href="https://github.com/AL-Morchid-Chaymae/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=650&height=80&color=F70000&center=true&lines=Hey!+it's+me+AL+Chaymae+🙋‍♀;Welcome+to+my+GitHub+Profile+✨" />
-  </a>
-</p>
+<!-- HEADER - Modern Minimal -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+AL+Morchid+Chaymae+%F0%9F%99%8B%E2%80%8D%E2%99%80;Full+Stack+Software+Engineer;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing Intro"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+## ✨ About Me
 
-Hello!  
-My name is **AL Morchid Chaymae**, a **Full Stack Software Engineer** passionate about building modern, scalable, and clean applications.
+I'm a **Full Stack Software Engineer** passionate about building clean, modern, and scalable applications.
 
-I have strong experience in:
-- **Frontend:** HTML, CSS, JavaScript, React, Angular  
-- **Backend:** Java (Spring Boot), PHP, C, Python  
-- **Databases:** MySQL, PostgreSQL, MariaDB  
-- **Modeling:** UML, Merise  
-- **Unix environments & Shell scripting**
+I work with a broad range of technologies such as:
 
-Currently focused on:
-👉 **Java Spring Boot**  
-👉 **JavaScript (React / Angular)**  
+- **Frontend:** HTML, CSS, JavaScript, Angular, React  
+- **Backend:** Java, Spring Boot, PHP, Python  
+- **Databases:** MySQL, MariaDB, SQL Server  
+- **Tools & Concepts:** Git, Docker, Postman, UML/Merise, Shell (Unix)
 
----
+Currently focusing on:
 
-# 💻 Tech Stack
-
-### **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+🌿 **Spring Boot (Java)**  
+⚡ **React + Angular**  
+💡 Always learning & improving  
 
 ---
 
-### **Frameworks & Tools**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### **Languages**
+![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### **Frameworks & Tools**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Cloud & Others**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+</div>
+
+
+
 
 ---
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="120" src="https://avatars.githubusercontent.com/u/153431300?v=4" />
+
+
+</div>
 
 ---
 
-### **Cloud & Others**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=AL-Morchid-Chaymae&theme=flat&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## ✍️ Inspirational Dev Quote
 
-<p align="center">
+<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=al-morchid-chaymae&theme=default&hide_border=false" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&theme=default&hide_border=false&layout=compact" />
-
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=al-morchid-chaymae&theme=onestar&no-frame=true&margin-w=5" />
-</p>
+## 🚀 Top Contributions
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AL-Morchid-Chaymae&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=al-morchid-chaymae&limit=5&theme=flat&combine_all_yearly_contributions=true" />
-</p>
-
----
+<div align="center">
 
 ### 👁️ Profile Visits  
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=al-morchid-chaymae&icon=0&color=1" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=al-morchid-chaymae&color=blueviolet&style=for-the-badge" />
+
+</div>
+

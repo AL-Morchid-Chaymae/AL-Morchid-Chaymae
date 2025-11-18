@@ -24,7 +24,7 @@ Currently focusing on:
 ⚡ **React + Angular**  
 💡 Always learning & improving  
 
-<div style="height:2px; background:linear-gradient(to right, #ccc, #eee, #ccc); margin:25px 0;"></div>
+---
 
 
 ## 🛠️ Tech Stack
@@ -59,11 +59,10 @@ Currently focusing on:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=al-morchid-chaymae&theme=transparent&hide_border=true" />
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://avatars.githubusercontent.com/u/153431300?v=4" width="120" style="border-radius:50%;" />
 
 </div>
 

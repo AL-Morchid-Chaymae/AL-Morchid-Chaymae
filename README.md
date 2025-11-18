@@ -28,9 +28,7 @@ Currently focusing on:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-### 🚀 Tech Stack
 
 #### **Languages**
 ![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)
@@ -52,7 +50,7 @@ Currently focusing on:
 
 
 
-</div>
+
 
 ---
 

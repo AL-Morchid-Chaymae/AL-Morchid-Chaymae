@@ -85,7 +85,7 @@ Currently focusing on:
 <div align="center">
 
 ### 👁️ Profile Visits  
-<img src="https://visitcount.itsvg.in/api?id=AL-Morchid-Chaymae&icon=0&color=6" />
+<img src="https://www.linkedin.com/in/chaymae-al-morchid-2a0128163/" />
 
 </div>
 

@@ -30,7 +30,7 @@ Currently focusing on:
 ## 🛠️ Tech Stack
 
 
-
+<div align="center">
 #### **Languages**
 ![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,7 +48,7 @@ Currently focusing on:
 #### **Cloud & Others**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
+</div>
 
 
 
@@ -62,7 +62,8 @@ Currently focusing on:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://avatars.githubusercontent.com/u/153431300?v=4" width="120" style="border-radius:50%;" />
+<img height="120" src="https://avatars.githubusercontent.com/u/153431300?v=4" />
+
 
 </div>
 

@@ -1,7 +1,7 @@
 <!-- HEADER - Modern Minimal -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+AL+Morchid+Chaymae+%F0%9F%99%8B%E2%80%8D%E2%99%80;Full+Stack+Software+Engineer;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing Intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+AL+Morchid+Chaymae+%F0%9F%99%8B%E2%80%8D%E2%99%80;Full+Stack+Software+Engineer;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F" alt="Typing Intro"/>
 
 </div>
 
@@ -11,21 +11,20 @@
 
 I'm a **Full Stack Software Engineer** passionate about building clean, modern, and scalable applications.
 
-I work with a broad range of technologies such as:
+I work with a broad range of technologies:
 
 - **Frontend:** HTML, CSS, JavaScript, Angular, React  
-- **Backend:** Java, Spring Boot, PHP, Python  
-- **Databases:** MySQL, MariaDB, SQL Server  
+- **Backend:** Java (Spring Boot), PHP, Python  
+- **Databases:** MySQL, PostgreSQL, MariaDB, SQL Server  
 - **Tools & Concepts:** Git, Docker, Postman, UML/Merise, Shell (Unix)
 
 Currently focusing on:
 
-🌿 **Spring Boot (Java)**  
-⚡ **React + Angular**  
-💡 Always learning & improving  
+🌱 **Spring Boot (Java)**  
+⚡ **React & Angular**  
+📚 Growing every day through learning & building  
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -48,10 +47,8 @@ Currently focusing on:
 #### **Cloud & Others**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 </div>
-
-
-
 
 ---
 
@@ -62,8 +59,11 @@ Currently focusing on:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-morchid-chaymae&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-morchid-chaymae&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="120" src="https://avatars.githubusercontent.com/u/153431300?v=4" />
 
+<br><br>
+
+<!-- Your avatar - modern rounded style -->
+<img height="120" style="border-radius: 50%; margin-top:15px;" src="https://avatars.githubusercontent.com/u/153431300?v=4" />
 
 </div>
 
@@ -72,7 +72,7 @@ Currently focusing on:
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  
+
 <img src="https://github-profile-trophy.vercel.app/?username=AL-Morchid-Chaymae&theme=flat&no-bg=true&margin-w=10" />
 
 </div>
@@ -105,4 +105,3 @@ Currently focusing on:
 <img src="https://komarev.com/ghpvc/?username=al-morchid-chaymae&color=blueviolet&style=for-the-badge" />
 
 </div>
-

@@ -29,8 +29,8 @@ Currently focusing on:
 
 ## 🛠️ Tech Stack
 
-
 <div align="center">
+
 #### **Languages**
 ![Java](https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

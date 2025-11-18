@@ -24,7 +24,8 @@ Currently focusing on:
 ⚡ **React + Angular**  
 💡 Always learning & improving  
 
-<div style="border-top: 2px solid #e5e5e5; margin: 25px 0;"></div>
+<div style="height:2px; background:linear-gradient(to right, #ccc, #eee, #ccc); margin:25px 0;"></div>
+
 
 ## 🛠️ Tech Stack
 
